@@ -36,7 +36,7 @@ h2 {
 .jumbotron {
 	height: 100vh;
 	background-color: #505050;
-	background-image: url('/images/programming_01_resized.jpeg');	
+	background-image: url('../images/programming_01_resized.jpeg');	
 	background-position: center center;
 	background-size: cover;
 	margin-bottom: 0;
@@ -301,7 +301,7 @@ h2.main-subheader {
 
 /* ===== Footer ===== */
 .footer {
-	/* background-image: url('/images/programming_01_resized.jpeg'); background-position: center bottom; position: relative; */
+	/* background-image: url('../images/programming_01_resized.jpeg'); background-position: center bottom; position: relative; */
 	color: orange;
 	background-color: #404040;
 }
